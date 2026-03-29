@@ -1,1 +1,1 @@
-# Glowup
+# Glowup - ecommerce website
